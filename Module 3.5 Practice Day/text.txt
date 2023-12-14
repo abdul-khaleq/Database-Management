@@ -1,0 +1,3 @@
+What is the difference between Data and Information?
+
+Data is a collection of fact that is unorganized and unstructured while Information is a colection of data that is organized and structured with meaningful. Data does not provide us a meaningful.
